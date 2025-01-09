@@ -6,19 +6,19 @@ export default function Footer() {
       <div>
         Powered by{" "}
         <a
-          href="https://together.ai"
+          href="https://github.com/SourcedCMD"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          Together AI
+          SourcedCMD
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/nutlope"
+          href="https://discord.gg/xhz64SqHYC"
           className="group"
-          aria-label="TaxPal on Twitter"
+          aria-label="SourcedCMD on Discord"
         >
           <svg
             aria-hidden="true"
@@ -28,9 +28,9 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/Nutlope/twitterbio"
+          href="https://github.com/SourcedCMD/twitter-bio"
           className="group"
-          aria-label="TaxPal on GitHub"
+          aria-label="SourcedCMD on GitHub"
         >
           <svg
             aria-hidden="true"
