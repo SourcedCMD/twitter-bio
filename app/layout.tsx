@@ -12,11 +12,11 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
 });
 
-let title = "Tweetbio – AI Twitter Bio Generator";
+let title = "CMDTwitterbio – AI Twitter Bio Generator";
 let description = "Generate your next Twitter bio in seconds";
-let url = "https://www.twitterbio.io/";
+let url = "https://cmdxbioai.vercel.app/";
 let ogimage = "https://www.twitterbio.io/og-image.png";
-let sitename = "twitterbio.io";
+let sitename = "CMDTwitterbio";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
